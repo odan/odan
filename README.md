@@ -9,7 +9,7 @@
 </a>
 
 * Visit my [Blog](https://odan.github.io/)
-* Followe my [YouTube Dev Channel](https://www.youtube.com/c/DanielOpitz)
+* Follow my [YouTube Dev Channel](https://www.youtube.com/c/DanielOpitz)
 * Buy me a [coffee](https://ko-fi.com/dopitz)
 * My [eBook Shop](https://ko-fi.com/dopitz/shop)
 
