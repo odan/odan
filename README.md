@@ -8,9 +8,8 @@
 <img alt="Git Stats" src="https://github-readme-stats.vercel.app/api?username=odan&count_private=true&show_icons=true" align="right" height="150" />
 </a>
 
-* Visit my [Blog](https://odan.github.io/)
-* Follow my [YouTube Dev Channel](https://www.youtube.com/c/DanielOpitz)
-* Buy me a [coffee](https://ko-fi.com/dopitz)
-* My [eBook Shop](https://ko-fi.com/dopitz/shop)
+* [Blog](https://odan.github.io/)
+* [YouTube Dev Channel](https://www.youtube.com/c/DanielOpitz)
+* [My eBook Shop](https://ko-fi.com/dopitz/shop)
 
 
