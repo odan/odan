@@ -22,6 +22,6 @@
 * [Blog](https://odan.github.io/)
 * [YouTube Dev Channel](https://www.youtube.com/c/DanielOpitz)
 * [Twitter](https://twitter.com/dopitz)
-* [My eBook Shop](https://ko-fi.com/dopitz/shop)
+* [eBook Shop](https://ko-fi.com/dopitz/shop)
 
 
