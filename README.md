@@ -20,7 +20,7 @@
 <p></p>
 
 * [Blog](https://odan.github.io/)
-* [YouTube Dev Channel](https://www.youtube.com/c/DanielOpitz)
+* [YouTube Channel](https://www.youtube.com/c/DanielOpitz)
 * [Twitter](https://twitter.com/dopitz)
 * [eBook Shop](https://ko-fi.com/dopitz/shop)
 
