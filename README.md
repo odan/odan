@@ -16,11 +16,6 @@
  
 </span>
 
-
-<a href="https://github.com/odan">
-<img alt="Git Stats" src="https://github-readme-stats.vercel.app/api?username=odan&count_private=true&show_icons=true" align="right" height="150" />
-</a>
-
 <p></p>
 
 * [Blog](https://odan.github.io/)
