@@ -4,5 +4,6 @@
 * [YouTube Channel](https://www.youtube.com/c/DanielOpitz)
 * [Twitter](https://twitter.com/dopitz)
 * [eBook Shop](https://ko-fi.com/dopitz/shop)
+* [Gists](https://gist.github.com/odan)
 
 
